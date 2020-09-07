@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB_FeedbackProcessor", "LAB_FeedbackProcessor\LAB_FeedbackProcessor.csproj", "{5560D83A-3F92-4158-A578-6BBDC810D39C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedBackProcess_Logic", "FeedBackProcess_Logic\FeedBackProcess_Logic.csproj", "{F10C6FAB-5FD7-4826-B078-7CC8B6036DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbackProcessor.Model", "FeedbackProcessor.Model\FeedbackProcessor.Model.csproj", "{ECAF2D65-4878-4370-853E-64F5E9D94BC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5560D83A-3F92-4158-A578-6BBDC810D39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5560D83A-3F92-4158-A578-6BBDC810D39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5560D83A-3F92-4158-A578-6BBDC810D39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10C6FAB-5FD7-4826-B078-7CC8B6036DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10C6FAB-5FD7-4826-B078-7CC8B6036DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10C6FAB-5FD7-4826-B078-7CC8B6036DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10C6FAB-5FD7-4826-B078-7CC8B6036DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAF2D65-4878-4370-853E-64F5E9D94BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAF2D65-4878-4370-853E-64F5E9D94BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAF2D65-4878-4370-853E-64F5E9D94BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAF2D65-4878-4370-853E-64F5E9D94BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
